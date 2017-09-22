@@ -22,29 +22,29 @@ def main():
 	filenameResults = 'locatedResults.csv'
 	filenameSupportResults = 'complementaryResults.csv'
 	encoding = 'utf-8'
-	startPoint = 900
+	startPoint = 1801
 
 	with open ('./Results/'+filenameSupportResults, 'w') as supportOutputFile:
 		with io.open ('./Results/'+filenameResults, 'w', encoding=encoding) as outputFile:
 
-			outputFile.write(unichr(9).join([
-				unicode('TweetID'), 
-				unicode('ID'),
-				unicode('Username'), 
-				unicode('DateTime'), 
-				unicode('Retweets'), 
-				unicode('Hashtag'),
-				unicode('Concept'),
-				unicode('Latitud'),
-				unicode('Longitud'),
-				unicode('Radius'),
-				unicode('TypeCoordinatesLocation'),
-				unicode('Real Latitud'),
-				unicode('Real Longitud'),
-				unicode('Reported location by User'),
-				unicode('created_at'),
-				unicode('text'), '\n'
-				]))
+			# outputFile.write(unichr(9).join([
+			# 	unicode('TweetID'), 
+			# 	unicode('ID'),
+			# 	unicode('Username'), 
+			# 	unicode('DateTime'), 
+			# 	unicode('Retweets'), 
+			# 	unicode('Hashtag'),
+			# 	unicode('Concept'),
+			# 	unicode('Latitud'),
+			# 	unicode('Longitud'),
+			# 	unicode('Radius'),
+			# 	unicode('TypeCoordinatesLocation'),
+			# 	unicode('Real Latitud'),
+			# 	unicode('Real Longitud'),
+			# 	unicode('Reported location by User'),
+			# 	unicode('created_at'),
+			# 	unicode('text'), '\n'
+			# 	]))
 
 			supportOutputFile.write(unichr(9).join([unicode('TweetID'),unicode('Place')]))			
 
@@ -56,7 +56,7 @@ def main():
 				supportBuffer = []
 				idCounter = startPoint
 
-				for line in linesResults[1+startPoint:startPoint+1000]:
+				for line in linesResults[1+startPoint:startPoint+900]:
 					idCounter += 1
 					lineList = line.rstrip().split(';')
 					idString = lineList[-6]
