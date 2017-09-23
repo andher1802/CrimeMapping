@@ -22,7 +22,7 @@ def main():
 	filenameResults = 'locatedResults.csv'
 	filenameSupportResults = 'complementaryResults.csv'
 	encoding = 'utf-8'
-	startPoint = 1801
+	startPoint = 12592
 
 	with open ('./Results/'+filenameSupportResults, 'w') as supportOutputFile:
 		with io.open ('./Results/'+filenameResults, 'w', encoding=encoding) as outputFile:
@@ -111,7 +111,10 @@ def main():
 					else:
 						outputLine.append(u'NA')
 					if 'text' in tweets.keys():
-						outputLine.append(tweets['text'])
+						tempText = tweets['text'].replace('\t', ' ')
+						tempText = tempText.replace('\n', ' ')
+						tempText = tempText.replace('"', '')
+						outputLine.append(tempText)
 
 					outputLine.append('\n')
 					supportOutputLine.append('\n')

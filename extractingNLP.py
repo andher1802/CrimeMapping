@@ -15,8 +15,7 @@ natural_language_understanding = NaturalLanguageUnderstandingV1(
     password='KjourMQXKT5L')
 
 response = natural_language_understanding.analyze(
-    text='Bruce Banner is the Hulk and Bruce Wayne is BATMAN! '
-         'Superman fears not Banner, but Wayne.',
+    text='Arson on 49XX RAPID RUN RD, Cincinnati, OH (via http://t.co/oCHXeNDI): Calls For Service-CARSON COVEDALE PK http://t.co/kBliJIMm',
     features=[Features.Entities(), Features.Keywords(), Features.Emotion() ])
 
 print(json.dumps(response, indent=2))
