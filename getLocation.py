@@ -22,7 +22,7 @@ def main():
 	filenameResults = 'locatedResults.csv'
 	filenameSupportResults = 'complementaryResults.csv'
 	encoding = 'utf-8'
-	startPoint = 12592
+	startPoint = 27586
 
 	with open ('./Results/'+filenameSupportResults, 'w') as supportOutputFile:
 		with io.open ('./Results/'+filenameResults, 'w', encoding=encoding) as outputFile:
@@ -56,7 +56,8 @@ def main():
 				supportBuffer = []
 				idCounter = startPoint
 
-				for line in linesResults[1+startPoint:startPoint+900]:
+#				for line in linesResults[1+startPoint:startPoint+900]:
+				for line in linesResults[1+startPoint:]:
 					idCounter += 1
 					lineList = line.rstrip().split(';')
 					idString = lineList[-6]
