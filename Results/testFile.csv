@@ -1,0 +1,47 @@
+NA	NA	NA	{u'full_name': u'the forum apartments, 707 martin luther king drive west', u'url': u'https://api.twitter.com/1.1/geo/id/07d9ec1f78c86002.json', u'country': u'Estados Unidos', u'place_type': u'poi', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[-84.52960968017578, 39.13900375366211], [-84.52960968017578, 39.13900375366211], [-84.52960968017578, 39.13900375366211], [-84.52960968017578, 39.13900375366211]]]}, u'contained_within': [], u'country_code': u'US', u'attributes': {}, u'id': u'07d9ec1f78c86002', u'name': u'the forum apartments, 707 martin luther king drive west'}	Bogota	Mon Sep 25 03:32:58 +0000 2017	Tweet prueba 3	
+NA	NA	NA	{u'full_name': u'Cincinnati, OH', u'url': u'https://api.twitter.com/1.1/geo/id/e444ecd51bd16ff3.json', u'country': u'Estados Unidos', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[-84.710722, 39.052962], [-84.3689026, 39.052962], [-84.3689026, 39.2211137], [-84.710722, 39.2211137]]]}, u'contained_within': [], u'country_code': u'US', u'attributes': {}, u'id': u'e444ecd51bd16ff3', u'name': u'Cincinnati'}	Bogota	Mon Sep 25 03:32:20 +0000 2017	Tweet prueba 2	
+Point	39.13819199	-84.53043459	{u'full_name': u'Cincinnati, OH', u'url': u'https://api.twitter.com/1.1/geo/id/e444ecd51bd16ff3.json', u'country': u'Estados Unidos', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[-84.710722, 39.052962], [-84.3689026, 39.052962], [-84.3689026, 39.2211137], [-84.710722, 39.2211137]]]}, u'contained_within': [], u'country_code': u'US', u'attributes': {}, u'id': u'e444ecd51bd16ff3', u'name': u'Cincinnati'}	Bogota	Mon Sep 25 03:31:54 +0000 2017	Tweet de prueba	
+NA	NA	NA	{u'full_name': u'Bogot\xe1, D.C., Colombia', u'url': u'https://api.twitter.com/1.1/geo/id/0161be1b3f98d6c3.json', u'country': u'Colombia', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[-74.483288999243, 3.71743200175304], [-74.0040529979154, 3.71743200175304], [-74.0040529979154, 4.80713500387127], [-74.483288999243, 4.80713500387127]]]}, u'contained_within': [], u'country_code': u'CO', u'attributes': {}, u'id': u'0161be1b3f98d6c3', u'name': u'Bogot\xe1, D.C.'}	Bogota	Sat Apr 08 18:11:59 +0000 2017	#clicsalud #TodosPorMocoa envía SMS al 87676 reporta tus emergencias en salud @MinSaludCol @Ministerio_TIC… https://t.co/ebuvtThYFe	
+NA	NA	NA	{u'full_name': u'Salento, Colombia', u'url': u'https://api.twitter.com/1.1/geo/id/001a090f0374bd47.json', u'country': u'Colombia', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[-75.7353389970742, 4.44413999527599], [-75.4689439999271, 4.44413999527599], [-75.4689439999271, 4.69003500003395], [-75.7353389970742, 4.69003500003395]]]}, u'contained_within': [], u'country_code': u'CO', u'attributes': {}, u'id': u'001a090f0374bd47', u'name': u'Salento'}	Bogota	Sat Mar 25 14:46:35 +0000 2017	Simposio internacional de endocrinologia, diabetes y metabolismo... Armenia, Quindio @Ministerio_TIC https://t.co/AT49WxXtGT	
+NA	NA	NA	{u'full_name': u'Manizales, Colombia', u'url': u'https://api.twitter.com/1.1/geo/id/01bd400c1ee9db95.json', u'country': u'Colombia', u'place_type': u'city', u'bounding_box': {u'type': u'Polygon', u'coordinates': [[[-75.729870997496, 4.96440200361095], [-75.3906989972614, 4.96440200361095], [-75.3906989972614, 5.1494659989949], [-75.729870997496, 5.1494659989949]]]}, u'contained_within': [], u'country_code': u'CO', u'attributes': {}, u'id': u'01bd400c1ee9db95', u'name': u'Manizales'}	Bogota	Sun Sep 11 16:40:44 +0000 2016	#LaVueltaxESPN @mario_sabato #Nairoman #NairoCampeon felicitaciones ...	
+NA	NA	NA	None	Bogota	Mon Sep 05 14:03:58 +0000 2016	I learned the French skill Animals on https://t.co/k5hOx9qrNl	
+NA	NA	NA	None	Bogota	Mon Sep 05 04:57:24 +0000 2016	I learned the French skill Food on https://t.co/k5hOx9qrNl	
+NA	NA	NA	None	Bogota	Sun Sep 04 23:10:25 +0000 2016	I learned the French skill Common Phrases on https://t.co/k5hOx9qrNl	
+NA	NA	NA	None	Bogota	Sun Sep 04 19:42:19 +0000 2016	I learned the French skill Basics 1 on https://t.co/k5hOx9qrNl	
+NA	NA	NA	None	Bogota	Sun Sep 04 15:21:48 +0000 2016	@mario_sabato #LaVueltaxESPN    #VamosNairoman #vamosNairo	
+NA	NA	NA	None	Bogota	Sun Sep 04 14:39:06 +0000 2016	#VamosNairoman	
+NA	NA	NA	None	Bogota	Sun Sep 04 14:22:14 +0000 2016	#LaVueltaxESPN #VamosNairo en Bogotá @mario_sabato	
+NA	NA	NA	None	Bogota	Sun Feb 14 19:23:33 +0000 2016	Free Keynote &amp; PowerPoint mockup templates for prototyping mobile and Web apps #design #UX #mockups https://t.co/T2tHmiwgAB vía @keynotopia	
+NA	NA	NA	None	Bogota	Tue Jan 19 03:45:00 +0000 2016	AMA incluye seguridad de datos y telemedicina dentro de asuntos de mayor importancia en 2016 @Ministerio_TIC  https://t.co/YOP7sJ9FzN	
+NA	NA	NA	None	Bogota	Tue Jan 19 03:33:23 +0000 2016	Tendencias en e-Health  https://t.co/TZRqnGROex	
+NA	NA	NA	None	Bogota	Tue Dec 29 18:55:55 +0000 2015	https://t.co/IFmiUgHzfP	
+NA	NA	NA	None	Bogota	Sun Dec 27 20:26:04 +0000 2015	https://t.co/50UFFicotW	
+NA	NA	NA	None	Bogota	Sun Dec 27 20:07:37 +0000 2015	https://t.co/BRiouDXEUq	
+NA	NA	NA	None	Bogota	Sun Dec 27 19:06:51 +0000 2015	Our 10 most read articles in 2015 https://t.co/t9c8sE117R via analyticsindiam	
+NA	NA	NA	None	Bogota	Sun Dec 27 17:50:18 +0000 2015	https://t.co/YS9wFnBl5f	
+NA	NA	NA	None	Bogota	Mon Mar 30 20:53:34 +0000 2015	We applied to MassChallenge Boston 2015 Accelerator! http://t.co/toHBG6NG7o vía @MassChallenge	
+NA	NA	NA	None	Bogota	Thu Aug 29 19:01:15 +0000 2013	@GermanRodMe gracias German... se hace lo q se puede. Saludos	
+NA	NA	NA	None	Bogota	Wed Oct 31 05:55:49 +0000 2012	http://t.co/wTuo6xi @petrogustavo	
+NA	NA	NA	None	Bogota	Thu Sep 20 15:50:50 +0000 2012	Medellin se quiere convertir en el proximo silicon valley en Colombia http://t.co/dz2KhzW #appsco	
+NA	NA	NA	None	Bogota	Thu Sep 13 16:34:56 +0000 2012	Aprende a programar aplicaciones web.. http://t.co/ZDhofzK	
+NA	NA	NA	None	Bogota	Sat Sep 08 16:22:46 +0000 2012	Material para emprendedores, con @bobdorf aliado de la iniciativa #appsco del @Ministerio_TIC, http://t.co/JnQ5DJm	
+NA	NA	NA	None	Bogota	Mon Jul 30 19:38:23 +0000 2012	http://t.co/OwOdwNC	
+NA	NA	NA	None	Bogota	Fri Jun 29 16:57:29 +0000 2012	@ceobando anunciando el lanzamiento de #appsco para aprender a desarrollar apps web y moviles http://t.co/gS954dm inscribete a bootcamps	
+NA	NA	NA	None	Bogota	Fri Jun 29 16:42:18 +0000 2012	@alejodm en el auditorio emprendimiento... Hablando de emprendimiento digital #appsco	
+NA	NA	NA	None	Bogota	Thu Jun 28 15:54:48 +0000 2012	En taller de tendencias, stand mintic #CPC05 por @Huracangie #appsco	
+NA	NA	NA	None	Bogota	Tue Jun 26 22:54:05 +0000 2012	Lanzando bootcamps en #CPC05 #appsco con @ceobando	
+NA	NA	NA	None	Bogota	Tue Jun 26 22:52:02 +0000 2012	Lanzando #appsco appsco en #CPC05	
+NA	NA	NA	None	Bogota	Thu Jun 21 23:19:07 +0000 2012	Paul Hegarty - Developing Apps for iOS (SD) - http://t.co/Ursia4Z #iTunes	
+NA	NA	NA	None	Bogota	Thu Jun 14 19:10:58 +0000 2012	@Ministerio_TIC Vectir para controlar mi Itunes desde mi smartphone #AppsCo	
+NA	NA	NA	None	Bogota	Wed May 23 05:03:46 +0000 2012	La mejor pagina de formacion en capacidades de desarrollo de software, web apps moviles #AppsCo http://t.co/HmCbDDn	
+NA	NA	NA	None	Bogota	Tue May 22 16:32:51 +0000 2012	Interesante documento para el que le interese el Cloud Computing #AppsCo http://t.co/E4OV2WI	
+NA	NA	NA	None	Bogota	Thu May 17 19:59:15 +0000 2012	RT @cmogotocoro RT @ministerio_tic: A propósito de Apps y de móviles, Google lanzó Our Mobile Planet para medir los impactos y uso #AppsCo	
+NA	NA	NA	None	Bogota	Thu May 17 19:42:41 +0000 2012	@Ministerio_TIC @urbanohumano Los Apps de gestion de proyectos y empresas son base para emprendimiento, he pagado por ellos #AppsCo #HoraTIC	
+NA	NA	NA	None	Bogota	Thu May 17 19:40:40 +0000 2012	@tekelala @cmogotocoro otra opcion libre para desarrollo de aplicaciones de este tipo es el LenguajeR  http://t.co/r48lowI #AppsCo	
+NA	NA	NA	None	Bogota	Thu May 17 18:59:19 +0000 2012	RT @restrepomunera Por brindar salud gracias a la Telemedicina #AmoInternet @Ministerio_TIC #AppsCo	
+NA	NA	NA	None	Bogota	Thu May 17 17:10:51 +0000 2012	#AmoInternet porque es en la único espacio en donde todos somos verdaderamente iguales sin importar raza, sexo o religión #AppsCo	
+NA	NA	NA	None	Bogota	Fri May 11 15:53:29 +0000 2012	RT @oscarduenas #appsco lanza #desafioapps novedosa iniciativa -&gt; http://t.co/2ssb25W #MinTIC	
+NA	NA	NA	None	Bogota	Fri May 11 15:51:25 +0000 2012	RT @anayib Te identificas con los 10 principios de apps.co?...http://www.vivedigital.gov.co/appsco/foros/tema/10-principios-claves/.#appsco	
+NA	NA	NA	None	Bogota	Fri May 11 15:50:24 +0000 2012	RT @TECH_cetera rifamos suscripcion de XBOX Live Gold por un mes, entre quienes nos sigan y retwiteen este con el hash #techceteraxboxlive	
+NA	NA	NA	None	Bogota	Thu May 10 19:41:02 +0000 2012	@MauricioJaramil una aplicacion en nube muy poderosa para la gestion organizacional es runmyprocess #AppsCo #HoraTic	
+NA	NA	NA	None	Bogota	Thu May 10 19:24:14 +0000 2012	RT @MauricioJaramil @Ministerio_TIC ¡En casi todo! Desde transformar sus procesos internos hasta abrirles mercados en todo el mundo #HoraTic	
