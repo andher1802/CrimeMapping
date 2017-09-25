@@ -101,7 +101,7 @@ class tweeterBrowser:
 				queryStructureOrdered[4] = ' until:' + searchParams[param]
 		
 		queryStructure = ''.join(queryStructureOrdered)
-		print urllib.quote(queryStructure)
+#		print urllib.quote(queryStructure)
 
 		headers = [
 			('Host', "twitter.com"),
