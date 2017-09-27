@@ -74,6 +74,8 @@ def main():
 				tempText = tempText.lower()
 				outputLine.append(tempText)
 
+			print tempText
+
 			outputLine.append('\n')
 			outputFile.write(unichr(9).join(outputLine))
 
