@@ -2,6 +2,7 @@ from tweeterAPI.tweeterBrowser import tweeterBrowser
 import io
 import oauth2 as oauth
 import json
+import re
 
 def setAuth():
 	ACCESS_TOKEN = '570259739-4u7BUZr6jEkwOPNnh46b3yOupCditBI6fVaT34aR'
@@ -67,9 +68,10 @@ def main():
 			else:
 				outputLine.append(u'NA')
 			if 'text' in tweets.keys():
-				tempText = tweets['text'].replace('\t', ' ')
+				tempText = ' '.join(re.sub("(@[A-Za-z0-9]+)|([^0-9A-Za-z \t])|(\w+:\/\/\S+)", " ", tweets['text']).split())
 				tempText = tempText.replace('\n', ' ')
 				tempText = tempText.replace('"', '')
+				tempText = tempText.lower()
 				outputLine.append(tempText)
 
 			outputLine.append('\n')

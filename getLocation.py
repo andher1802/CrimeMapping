@@ -1,6 +1,7 @@
 import oauth2 as oauth
 import json
 import io
+import re
 
 #Username;DateTime;Retweets;Text;Hashtag;ID;Permanentlink;Concept;Latitud;Longitud;Radius
 
@@ -26,7 +27,6 @@ def main():
 
 	with open ('./Results/'+filenameSupportResults, 'w') as supportOutputFile:
 		with io.open ('./Results/'+filenameResults, 'w', encoding=encoding) as outputFile:
-
 			# outputFile.write(unichr(9).join([
 			# 	unicode('TweetID'), 
 			# 	unicode('ID'),
@@ -112,9 +112,10 @@ def main():
 					else:
 						outputLine.append(u'NA')
 					if 'text' in tweets.keys():
-						tempText = tweets['text'].replace('\t', ' ')
+						tempText = ' '.join(re.sub("(@[A-Za-z0-9]+)|([^0-9A-Za-z \t])|(\w+:\/\/\S+)", " ", tweets['text']).split())
 						tempText = tempText.replace('\n', ' ')
 						tempText = tempText.replace('"', '')
+						tempText = tempText.lower()
 						outputLine.append(tempText)
 
 					outputLine.append('\n')
