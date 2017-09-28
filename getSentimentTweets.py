@@ -17,7 +17,6 @@ filename = 'CleanedLocatedTweets.csv'
 encoding = 'utf-8'
 
 def main():
-
 	with io.open('./Results/nlpTweets.csv','w',encoding = encoding) as outputFile:
 		with io.open('./Results/'+filename,'r',encoding = encoding) as inputFile:
 			inputBuffer = inputFile.readlines()

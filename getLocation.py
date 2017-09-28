@@ -120,7 +120,6 @@ def main():
 
 					outputLine.append('\n')
 					supportOutputLine.append('\n')
-
 					outputFile.write(unichr(9).join(outputLine))
 					supportOutputFile.write(unichr(9).join(supportOutputLine))
 
